@@ -1,0 +1,78 @@
+C:\Users\ACER\source\repos\Giaodien\Giaodien\obj\Debug\Giaodien.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Giaodien\Giaodien\obj\Debug\Giaodien.Form1.resources
+C:\Users\ACER\source\repos\Giaodien\Giaodien\obj\Debug\Giaodien.Properties.Resources.resources
+C:\Users\ACER\source\repos\Giaodien\Giaodien\obj\Debug\Giaodien.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Giaodien\Giaodien\obj\Debug\Giaodien.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Giaodien\Giaodien\bin\Debug\Giaodien.exe.config
+C:\Users\ACER\source\repos\Giaodien\Giaodien\bin\Debug\Giaodien.exe
+C:\Users\ACER\source\repos\Giaodien\Giaodien\bin\Debug\Giaodien.pdb
+C:\Users\ACER\source\repos\Giaodien\Giaodien\obj\Debug\Giaodien.exe
+C:\Users\ACER\source\repos\Giaodien\Giaodien\obj\Debug\Giaodien.pdb
+C:\Users\ACER\source\repos\Giaodien\Giaodien\bin\Debug\ZedGraph.dll
+C:\Users\ACER\source\repos\Giaodien\Giaodien\bin\Debug\ZedGraph.xml
+C:\Users\ACER\source\repos\Giaodien\Giaodien\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ACER\source\repos\Giaodien\Giaodien\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ACER\source\repos\Giaodien\Giaodien\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ACER\source\repos\Giaodien\Giaodien\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ACER\source\repos\Giaodien\Giaodien\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ACER\source\repos\Giaodien\Giaodien\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ACER\source\repos\Giaodien\Giaodien\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ACER\source\repos\Giaodien\Giaodien\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ACER\source\repos\Giaodien\Giaodien\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ACER\source\repos\Giaodien\Giaodien\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ACER\source\repos\Giaodien\Giaodien\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ACER\source\repos\Giaodien\Giaodien\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ACER\source\repos\Giaodien\Giaodien\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ACER\source\repos\Giaodien\Giaodien\obj\Debug\Giaodien.csproj.CopyComplete
+D:\Garena\Trần Đức Triều _ N21DCVT108\Giao diện\Giaodien\bin\Debug\Giaodien.exe.config
+D:\Garena\Trần Đức Triều _ N21DCVT108\Giao diện\Giaodien\bin\Debug\Giaodien.exe
+D:\Garena\Trần Đức Triều _ N21DCVT108\Giao diện\Giaodien\bin\Debug\Giaodien.pdb
+D:\Garena\Trần Đức Triều _ N21DCVT108\Giao diện\Giaodien\bin\Debug\ZedGraph.dll
+D:\Garena\Trần Đức Triều _ N21DCVT108\Giao diện\Giaodien\bin\Debug\ZedGraph.xml
+D:\Garena\Trần Đức Triều _ N21DCVT108\Giao diện\Giaodien\bin\Debug\de\ZedGraph.resources.dll
+D:\Garena\Trần Đức Triều _ N21DCVT108\Giao diện\Giaodien\bin\Debug\es\ZedGraph.resources.dll
+D:\Garena\Trần Đức Triều _ N21DCVT108\Giao diện\Giaodien\bin\Debug\fr\ZedGraph.resources.dll
+D:\Garena\Trần Đức Triều _ N21DCVT108\Giao diện\Giaodien\bin\Debug\hu\ZedGraph.resources.dll
+D:\Garena\Trần Đức Triều _ N21DCVT108\Giao diện\Giaodien\bin\Debug\it\ZedGraph.resources.dll
+D:\Garena\Trần Đức Triều _ N21DCVT108\Giao diện\Giaodien\bin\Debug\ja\ZedGraph.resources.dll
+D:\Garena\Trần Đức Triều _ N21DCVT108\Giao diện\Giaodien\bin\Debug\pt\ZedGraph.resources.dll
+D:\Garena\Trần Đức Triều _ N21DCVT108\Giao diện\Giaodien\bin\Debug\ru\ZedGraph.resources.dll
+D:\Garena\Trần Đức Triều _ N21DCVT108\Giao diện\Giaodien\bin\Debug\sk\ZedGraph.resources.dll
+D:\Garena\Trần Đức Triều _ N21DCVT108\Giao diện\Giaodien\bin\Debug\sv\ZedGraph.resources.dll
+D:\Garena\Trần Đức Triều _ N21DCVT108\Giao diện\Giaodien\bin\Debug\tr\ZedGraph.resources.dll
+D:\Garena\Trần Đức Triều _ N21DCVT108\Giao diện\Giaodien\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Garena\Trần Đức Triều _ N21DCVT108\Giao diện\Giaodien\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Garena\Trần Đức Triều _ N21DCVT108\Giao diện\Giaodien\obj\Debug\Giaodien.csproj.AssemblyReference.cache
+D:\Garena\Trần Đức Triều _ N21DCVT108\Giao diện\Giaodien\obj\Debug\Giaodien.Form1.resources
+D:\Garena\Trần Đức Triều _ N21DCVT108\Giao diện\Giaodien\obj\Debug\Giaodien.Properties.Resources.resources
+D:\Garena\Trần Đức Triều _ N21DCVT108\Giao diện\Giaodien\obj\Debug\Giaodien.csproj.GenerateResource.cache
+D:\Garena\Trần Đức Triều _ N21DCVT108\Giao diện\Giaodien\obj\Debug\Giaodien.csproj.CoreCompileInputs.cache
+D:\Garena\Trần Đức Triều _ N21DCVT108\Giao diện\Giaodien\obj\Debug\Giaodien.csproj.CopyComplete
+D:\Garena\Trần Đức Triều _ N21DCVT108\Giao diện\Giaodien\obj\Debug\Giaodien.exe
+D:\Garena\Trần Đức Triều _ N21DCVT108\Giao diện\Giaodien\obj\Debug\Giaodien.pdb
+D:\Garena\Tran_Duc_Trieu-N21DCVT108\Giao diện\Giaodien\bin\Debug\Giaodien.exe.config
+D:\Garena\Tran_Duc_Trieu-N21DCVT108\Giao diện\Giaodien\bin\Debug\Giaodien.exe
+D:\Garena\Tran_Duc_Trieu-N21DCVT108\Giao diện\Giaodien\bin\Debug\Giaodien.pdb
+D:\Garena\Tran_Duc_Trieu-N21DCVT108\Giao diện\Giaodien\bin\Debug\ZedGraph.dll
+D:\Garena\Tran_Duc_Trieu-N21DCVT108\Giao diện\Giaodien\bin\Debug\ZedGraph.xml
+D:\Garena\Tran_Duc_Trieu-N21DCVT108\Giao diện\Giaodien\bin\Debug\de\ZedGraph.resources.dll
+D:\Garena\Tran_Duc_Trieu-N21DCVT108\Giao diện\Giaodien\bin\Debug\es\ZedGraph.resources.dll
+D:\Garena\Tran_Duc_Trieu-N21DCVT108\Giao diện\Giaodien\bin\Debug\fr\ZedGraph.resources.dll
+D:\Garena\Tran_Duc_Trieu-N21DCVT108\Giao diện\Giaodien\bin\Debug\hu\ZedGraph.resources.dll
+D:\Garena\Tran_Duc_Trieu-N21DCVT108\Giao diện\Giaodien\bin\Debug\it\ZedGraph.resources.dll
+D:\Garena\Tran_Duc_Trieu-N21DCVT108\Giao diện\Giaodien\bin\Debug\ja\ZedGraph.resources.dll
+D:\Garena\Tran_Duc_Trieu-N21DCVT108\Giao diện\Giaodien\bin\Debug\pt\ZedGraph.resources.dll
+D:\Garena\Tran_Duc_Trieu-N21DCVT108\Giao diện\Giaodien\bin\Debug\ru\ZedGraph.resources.dll
+D:\Garena\Tran_Duc_Trieu-N21DCVT108\Giao diện\Giaodien\bin\Debug\sk\ZedGraph.resources.dll
+D:\Garena\Tran_Duc_Trieu-N21DCVT108\Giao diện\Giaodien\bin\Debug\sv\ZedGraph.resources.dll
+D:\Garena\Tran_Duc_Trieu-N21DCVT108\Giao diện\Giaodien\bin\Debug\tr\ZedGraph.resources.dll
+D:\Garena\Tran_Duc_Trieu-N21DCVT108\Giao diện\Giaodien\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Garena\Tran_Duc_Trieu-N21DCVT108\Giao diện\Giaodien\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Garena\Tran_Duc_Trieu-N21DCVT108\Giao diện\Giaodien\obj\Debug\Giaodien.csproj.AssemblyReference.cache
+D:\Garena\Tran_Duc_Trieu-N21DCVT108\Giao diện\Giaodien\obj\Debug\Giaodien.Form1.resources
+D:\Garena\Tran_Duc_Trieu-N21DCVT108\Giao diện\Giaodien\obj\Debug\Giaodien.Properties.Resources.resources
+D:\Garena\Tran_Duc_Trieu-N21DCVT108\Giao diện\Giaodien\obj\Debug\Giaodien.csproj.GenerateResource.cache
+D:\Garena\Tran_Duc_Trieu-N21DCVT108\Giao diện\Giaodien\obj\Debug\Giaodien.csproj.CoreCompileInputs.cache
+D:\Garena\Tran_Duc_Trieu-N21DCVT108\Giao diện\Giaodien\obj\Debug\Giaodien.csproj.CopyComplete
+D:\Garena\Tran_Duc_Trieu-N21DCVT108\Giao diện\Giaodien\obj\Debug\Giaodien.exe
+D:\Garena\Tran_Duc_Trieu-N21DCVT108\Giao diện\Giaodien\obj\Debug\Giaodien.pdb

@@ -1,0 +1,20 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+ADC_out                                                           0x0160       4
+nhietdo                                                           0x0164       4
+dienap                                                            0x0168       4
+timer2                                                            0x016C       2
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+chuc                                                              R4,R5        2
+dvi                                                               R6,R7        2
+dem                                                               R8,R9        2
+i                                                                 R10,R11      2
+timer1                                                            R12,R13      2

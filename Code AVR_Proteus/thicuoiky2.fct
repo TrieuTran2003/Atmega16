@@ -1,0 +1,4 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"thicuoiky2.c" LINE:193
+read_adc DSTACK_USAGE:1 DSTACK_LEVEL:1 FILE:"thicuoiky2.c" LINE:19
+ext_int1_isr DSTACK_USAGE:12 DSTACK_LEVEL:13 FILE:"thicuoiky2.c" LINE:46
+uart_char_send DSTACK_USAGE:1 DSTACK_LEVEL:14 FILE:"thicuoiky2.c" LINE:32
